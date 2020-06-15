@@ -1,6 +1,5 @@
-*.idea
-*liza-backend/templates/index.sublime-workspace
-*asdasdasdasd.py
-*.idea/workspace.xml
+.idea/
+.idea/workspace.xml
+.xml
 *.xml
-*.xml
+liza-backend/templates/index.sublime-workspace
