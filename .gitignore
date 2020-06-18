@@ -5,5 +5,5 @@
 liza-backend/templates/index.sublime-workspace
 main.py
 LICENSE
-*.sqlite
+*.sqlite3
 venv
