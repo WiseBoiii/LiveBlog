@@ -1,5 +1,9 @@
-.idea/
+*.idea/
 .idea/workspace.xml
 .xml
 *.xml
 liza-backend/templates/index.sublime-workspace
+.main.py
+.LICENSE
+*.sqlite
+.venv
