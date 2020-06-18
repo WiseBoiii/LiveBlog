@@ -7,3 +7,4 @@ main.py
 LICENSE
 *.sqlite3
 venv
+media/
